@@ -1,0 +1,80 @@
+.encabezado{
+    background-color: yellow;
+    max-height: 280px;
+}
+
+img{
+    float: left;
+    width: 200px;
+}
+
+.nombre{
+    color: black;
+    font-size: 5em;
+    margin: 10px;
+    text-align: center;
+}
+
+.cargo{
+    color: black;
+    font-size: 2em;
+    text-align: center;
+}
+
+.principal{
+    background-color: #ffffff;
+}
+
+.contenedorh{
+    padding: 10px;
+    height: 250px;
+}
+
+.contenedorl{
+    padding: 10px;
+    width: 18%;
+    float: left;
+    background-color: rgb(240, 240, 167);
+}
+
+.contenedorr{
+    padding: 10px;
+    width:78%;
+    float: left;
+}
+
+.cuerpo{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    color: #3C4D69;
+    background-color: rgb(240, 240, 167);
+    text-align: center;
+}
+
+.pie{
+    background-color: rgb(240, 240, 167);
+    width: 100%;
+}
+
+.tpie{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(55, 58, 231);
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(240, 240, 167);
+    width: 100%;
+}
+
+h2{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
